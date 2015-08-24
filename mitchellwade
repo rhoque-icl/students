@@ -1,0 +1,1 @@
+Hi, my name is Mitchell Wade and I am a senior in Computer Science. I am interested in parallel programming, working for businesses to develop algorithms, and I am very interested in doing research for the space industry.
